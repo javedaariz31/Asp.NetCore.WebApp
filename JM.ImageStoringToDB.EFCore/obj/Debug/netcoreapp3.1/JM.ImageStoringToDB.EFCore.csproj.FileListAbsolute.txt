@@ -1,0 +1,10 @@
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.deps.json
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.dll
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.csprojAssemblyReference.cache
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.AssemblyInfoInputs.cache
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.AssemblyInfo.cs
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.pdb
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.dll
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.pdb
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.runtimeconfig.json
+C:\Users\Mohammed Javed\source\repos\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.runtimeconfig.dev.json
