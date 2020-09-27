@@ -17,3 +17,13 @@ C:\Users\Mohammed Javed\source\repos\Asp.NetCore_ImageStoringApp\JM.ImageStoring
 C:\Users\Mohammed Javed\source\repos\Asp.NetCore_ImageStoringApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.AssemblyInfo.cs
 C:\Users\Mohammed Javed\source\repos\Asp.NetCore_ImageStoringApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.dll
 C:\Users\Mohammed Javed\source\repos\Asp.NetCore_ImageStoringApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.pdb
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.deps.json
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.runtimeconfig.json
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.runtimeconfig.dev.json
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.dll
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\bin\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.pdb
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.csprojAssemblyReference.cache
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.AssemblyInfoInputs.cache
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.AssemblyInfo.cs
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.dll
+C:\Users\Mohammed Javed\source\repos\Asp.NetCore.WebApp\JM.ImageStoringToDB.EFCore\obj\Debug\netcoreapp3.1\JM.ImageStoringToDB.EFCore.Data.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore_ImageStoringApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj": {}
+    "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore.WebApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore_ImageStoringApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj": {
+    "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore.WebApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore_ImageStoringApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore.WebApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj",
         "projectName": "JM.ImageStoringToDB.EFCore.Data",
-        "projectPath": "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore_ImageStoringApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj",
+        "projectPath": "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore.WebApp\\JM.ImageStoringToDB.EFCore\\JM.ImageStoringToDB.EFCore.Data.csproj",
         "packagesPath": "C:\\Users\\Mohammed Javed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore_ImageStoringApp\\JM.ImageStoringToDB.EFCore\\obj\\",
+        "outputPath": "C:\\Users\\Mohammed Javed\\source\\repos\\Asp.NetCore.WebApp\\JM.ImageStoringToDB.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
